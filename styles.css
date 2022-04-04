@@ -23,13 +23,13 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 4vmin;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
 
 img {
-  width: 70%;
+  width: 60%;
 }
 
 button {
